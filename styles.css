@@ -1,6 +1,9 @@
-h2 { 
+#vexheader{
+height: 25px;
+margin-left: 100px;
+}
 
-
-    
-
+.vexheaderimg{
+height: 15px;
+padding: 0px 12px;
 }
